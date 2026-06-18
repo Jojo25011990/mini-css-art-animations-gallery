@@ -48,9 +48,9 @@ export const miniProjects = [
 		id: 5,
 		src: Camera,
 		title: "CSS Art Camera & Animations",
-		srcDemo: "https://jojo25011990.github.io/Css-Art-Camera-Animations/",
-		srcCode: "https://github.com/Jojo25011990/Css-Art-Camera-Animations",
-		description: "HTML5, SASS ( SCSS - BEM ), Vanilla JavaScript",
+		srcDemo: "https://jojo25011990.github.io/css-art-camera/",
+		srcCode: "https://github.com/Jojo25011990/css-art-camera",
+		description: "HTML5, SASS ( SCSS - BEM ), Vanilla JavaScript, GSAP",
 	},
 	{
 		id: 6,
